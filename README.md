@@ -50,5 +50,7 @@ The dashboard includes:
 
 ---
 
+> 🔗 *To interact with the full dashboard, download the `.pbix` file from this repository.*
+
 
 
