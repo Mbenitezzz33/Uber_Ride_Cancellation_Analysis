@@ -35,17 +35,17 @@ We clean, model, and segment riders into **risk bands** using a Random Forest cl
 
 ---
 
-## 📈 Power BI Dashboard
+## 📊 Power BI Dashboard
 
 The dashboard includes:
 
-- **Gauge** showing average cancellation probability by risk segment
-- **Risk-band slicer** to interactively filter across visuals
-- **Time-of-day heatmap** to identify peak cancellation windows
-- **Feature importance bar chart** showing strongest predictors
+- **Gauge** showing average cancellation probability by risk segment  
+- **Risk-band slicer** to interactively filter across visuals  
+- **Time-of-day heatmap** to identify peak cancellation windows  
+- **Feature importance bar chart** showing strongest predictors  
 
+![Uber Dashboard](https://github.com/Mbenitezzz33/Uber_Ride_Cancellation_Analysis/blob/4f75982a08d4cd29fb80ae7eb7e6e4a2c98b9706/B3NITEZ_JUSTIN_UBER_DASHBOARD.PNG)
 
-B3NITEZ_JUSTIN_UBER_DASHBOARD.PNG
 
 ---
 
