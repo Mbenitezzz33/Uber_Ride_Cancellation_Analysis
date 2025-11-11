@@ -44,7 +44,7 @@ The dashboard includes:
 - **Time-of-day heatmap** to identify peak cancellation windows  
 - **Feature importance bar chart** showing strongest predictors  
 
-https://github.com/Mbenitezzz33/Uber_Ride_Cancellation_Analysis/blob/1edb7b68985ecc431c186066272bc3d5879bb924/B3NITEZ_JUSTIN_UBER_DASHBOARD.PNG
+
 
 <img width="2555" height="1385" alt="B3NITEZ_JUSTIN_UBER_DASHBOARD" src="https://github.com/user-attachments/assets/ebbb592f-2977-4e37-bb05-f2606bef45dc" />
 
